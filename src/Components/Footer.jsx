@@ -3,7 +3,7 @@ function Footer() {
   return (
     <>
       <footer className={styles.main}>
-        <h1>Made By Prasoon Senagr</h1>
+        <h1>Made By Prasoon Sengar</h1>
       </footer>
     </>
   );
