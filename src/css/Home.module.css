@@ -1,8 +1,9 @@
 .homebody {
-    height: calc(100vh - 145px);
+    height: calc(100vh - 250px);
     background-color: #fefdfded;
     width: 100vw;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    flex-direction: row;
 }

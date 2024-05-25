@@ -1,0 +1,11 @@
+.main {
+    height: 20vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.main h1 {
+    font: 40px;
+    color: white;
+    text-align: center;
+}

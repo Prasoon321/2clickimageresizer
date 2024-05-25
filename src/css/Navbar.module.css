@@ -17,7 +17,7 @@ a {
 /* navbar */
 .navbar {
     background-color: aliceblue;
-    padding: 50px 20px;
+    padding: 40px 20px;
     display: flex;
     justify-content: space-around;
     align-items: center;
